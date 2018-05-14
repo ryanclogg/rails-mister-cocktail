@@ -19,6 +19,11 @@ gem 'webpacker'
 # gem 'mini_racer', platforms: :ruby
 gem "awesome_print", require:"ap"
 
+gem 'faker'
+
+gem 'rest-client'
+gem 'json'
+
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
